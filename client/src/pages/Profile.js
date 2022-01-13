@@ -38,7 +38,7 @@ const Profile = () => {
             username={user.username}
             friendCount={user.friendCount}
             friends={user.friends}
-          />
+          />z
         </div>
       </div>
     </div>
